@@ -1,0 +1,77 @@
+body{
+    margin: 0px;
+background-image: newwebp ;
+}
+
+
+h1{
+    text-align: center;
+    color: rgb(234, 159, 9);
+    font-size: 78px;
+}
+p{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: 45px;
+}
+
+body{
+    background-color: beige;
+}
+i.fa-solid.fa-circle-arrow-right.fa-beat.fa-sm {
+    font-size: 38px;
+    margin-left: 45px;
+    margin-right: 42px;
+}
+button {
+    border-radius: 23px;
+    border: 8px solid rgba(9, 85, 191, 0.549);
+    size: 34px;
+    cursor: pointer;
+    cursor: pointer;
+    background-color: #1136dd69;
+    color: rgb(255, 255, 255);
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 20px;
+    margin-left: 80px 45px;
+    cursor: pointer;
+    position: relative;
+} 
+button#generat{
+    margin-left: 73px;
+}
+button#copy {
+    margin-left: 33px;
+}
+button#copy1 {
+    margin-left: 33px;
+}
+
+textarea#shake_256_output {
+    text-align: center;
+    background-color: rgba(129, 176, 176, 0.555);
+    font-size: 22px;
+    justify-content: center;
+    align-items: center;
+    width: 50vh;
+    height: 8vh;
+    padding-bottom: 35px;
+    color: rgba(20, 18, 18, 0.407);
+}
+
+span {
+    color: black;
+}
+
+input {
+    margin-left:85px;
+    
+    padding: 22px;
+    background-color: rgb(129, 176, 176, 0.555);
+    font-size: 36px;
+}
+
+
+
